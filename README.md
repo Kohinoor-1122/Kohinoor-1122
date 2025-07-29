@@ -1,6 +1,6 @@
 # Hi there 👋
 ## how do i code
-### iknow nothing
+### i know nothing
 *this is my table*
 |Name       | role        | user name|
 |-----------|-------------|----------|
